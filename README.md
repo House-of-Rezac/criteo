@@ -1,8 +1,9 @@
 # Tracking code for Criteo
-Solved as one GTM tag, dynamic params can be submitted.
+Template is implemnted as one-tag executed on all pages, dynamic variables can be submitted.
 
 
-# Params
+# Configuration
+![GTM template for Criteo](https://github.com/House-of-Rezac/criteo/blob/master/criteo.PNG?raw=true)
 
 
 ### Universal params
