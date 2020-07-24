@@ -1,5 +1,5 @@
 homepage: "https://www.houseofrezac.com"
 documentation: "https://github.com/House-of-Rezac/criteo/blob/master/README.md"
 versions:
-  - sha: 1b5dc2cf26500e4312cde132de54d3e7767e7ddd
+  - sha: 282c9fc5adf9f3cbac79264ae386a371232a76d6
     changeNotes: Initial release.
