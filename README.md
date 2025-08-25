@@ -1,3 +1,9 @@
+# ⚠️ DEPRECATED
+
+This repository is deprecated and no longer maintained. 
+
+**Alternative:** Please use official package instead.
+
 # Tracking code for Criteo
 Template is implemnted as one-tag executed on all pages, dynamic variables can be submitted.
 
